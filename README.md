@@ -1,5 +1,5 @@
 # **This is my first lesson**
-# _This repository is awesome_
+#### _This repository is awesome_
 
 - This is a bullet point
 * This is also a bullet point
